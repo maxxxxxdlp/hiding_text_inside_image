@@ -7,7 +7,7 @@ Then, last bit of each cell is overwritten with a consequetive bit from the text
 As a result, each of the pixels on the image can change no more than by 1/255th of a color (undetectable difference)
 Resulting image may be different in size as the tool does not use any compression method for the output
 ## source
-Source code is located in the **d3_31.php**
+Source code is located in the **index.php**
 ## try_it_online
 Online version is available [here](https://mambo.in.ua/project/hiding_text/)
 ## contributions
