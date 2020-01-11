@@ -9,6 +9,6 @@ Resulting image may be different in size as the tool does not use any compressio
 ## source
 Source code is located in the **d3_31.php**
 ## try_it_online
-Online version is available [here](https://mambo.in.ua/map/files/d3_31.php)
+Online version is available [here](https://mambo.in.ua/project/hiding_text/)
 ## contributions
 Everyone is free to fix bugs, add support for other image formats and add more features
